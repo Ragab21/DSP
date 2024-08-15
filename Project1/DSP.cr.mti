@@ -1,0 +1,22 @@
+{D:/Digital design diploma/Projects/Project1/regs_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design diploma/Projects/Project1/regs_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_regs
+
+Top level modules:
+	tb_regs
+
+} {} {}} {D:/Digital design diploma/Projects/Project1/DSP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design diploma/Projects/Project1/DSP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP
+
+Top level modules:
+	DSP
+
+} {} {}} {D:/Digital design diploma/Projects/Project1/regs.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design diploma/Projects/Project1/regs.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module regs
+
+Top level modules:
+	regs
+
+} {} {}}
